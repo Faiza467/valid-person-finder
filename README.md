@@ -5,7 +5,7 @@ The name extraction pipeline is designed to locate and verify the full name of a
 
 Steps to Run the Program:
 1. Clone the Repository
-2. Set Up a Virtual Environment (fastapi uvicorn requests beautifulsoup4 duckduckgo-search)
-3. Install Dependencies
+2. Set Up a Virtual Environment 
+3. Install Dependencies (fastapi uvicorn requests beautifulsoup4 duckduckgo-search)
 4. Run the FastAPI Server
 5. Access the Web Interface
